@@ -1,5 +1,5 @@
 <h1 align="center"> Chainlink coinflip </h1>
-<p align="center">Experimental coinflip dApp built on the Polygon blockchain for a niche web3 community, as it implements their ERC-20 token for input. The odds are provably fair through the integration of Chainlink VRF.  </p>
+<p align="center">Experimental coinflip dApp built on the Polygon blockchain for a niche web3 community, implementing their ERC-20 token "zug" as the input currency. The odds are provably fair through the integration of Chainlink VRF.  </p>
 <br>
 
 <p align="center">Feel free to check it out!</p>
