@@ -6,7 +6,7 @@
 <p align="center">
 <a target="_blank" href="https://polygonscan.com/address/0xd952B48d384EB282f52eb64d845365dc11Ca95FF">Backend Smart Contract</a>
 <br>
-<a target="_blank" href="https://billowing-rice-8975.on.fleek.co/">Frontend Website</a>
+<a target="_blank" href="https://zugflip.vercel.app/">Frontend Website</a>
 </p>
 <br>
 
